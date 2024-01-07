@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/News-Wave/static/css/main.31d6cfe0.css",
+    "main.js": "/News-Wave/static/js/main.ce225359.js",
+    "static/js/787.6643f1c0.chunk.js": "/News-Wave/static/js/787.6643f1c0.chunk.js",
+    "index.html": "/News-Wave/index.html",
+    "main.ce225359.js.map": "/News-Wave/static/js/main.ce225359.js.map",
+    "787.6643f1c0.chunk.js.map": "/News-Wave/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ce225359.js"
+  ]
+}
